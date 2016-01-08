@@ -1,5 +1,5 @@
 # Java-Programming
-2. Java Programming: Solving Problems with Software (Coursera - Duke)
+2-Java Programming: Solving Problems with Software (Coursera - Duke)
 
 This is part of the Duke Series: Build Software Applications
 https://www.coursera.org/specializations/java-programming
